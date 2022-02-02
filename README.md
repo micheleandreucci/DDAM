@@ -1,1 +1,1 @@
-# Distributed-Data-Analysis-and-Mining-Project
+# Distributed Data Analysis and Mining Project
