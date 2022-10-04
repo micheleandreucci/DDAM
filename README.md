@@ -1,4 +1,4 @@
-# Distributed Data Analysis and Mining Project
+# DDAM Project
 
 Project for Distributed Data Analysis and Mining A.A. 2021/22
 
